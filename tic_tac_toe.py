@@ -12,6 +12,7 @@ def space_value(board, index):
     Arguments: board: An array of nine strings index: The value in the board to
     interrogate
     """
+    
     pass
 
 
